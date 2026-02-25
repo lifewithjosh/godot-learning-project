@@ -1,18 +1,9 @@
-# Godot Learning Project
+# Game System Simulator
 
-A beginner-friendly 2D project built using the Godot Engine.
+A simulation demonstrating core gameplay systems such as:
 
-## Features
-- Player movement using GDScript
-- Collision detection
-- Scene management
-- Camera tracking
+- Resource management
+- Time-based scoring
+- Game state handling
 
-## Purpose
-This project demonstrates understanding of:
-- Game loops
-- Physics movement
-- Scene architecture
-- Input systems
-
-Built as part of my game development learning journey.
+Focus: game logic architecture rather than graphics.
